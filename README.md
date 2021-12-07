@@ -9,6 +9,10 @@
 ### Технологии
 - Python 3.7
 - Jinja2 2.11.3
+### Клонируйте проект
+```bash
+git clone git@github.com:Kirill1709/wine_shop.git
+```
 ### Запустите проект
 ```bash
 python main.py wine2 (или любой другой файл excel с данными)
